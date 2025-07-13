@@ -3,8 +3,9 @@
 A feature-rich, collapsible, searchable **sidebar navigation** built with **Bootstrap 5** and **jQuery**.
 ---
 
-## 📸 Preview
+## 📸 Preview : https://amrit-maan2221.github.io/Bootstrap-collapsible-searchable-nav/
 
+<img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/49fe9d11-b570-4835-bb0e-d4ec52925c3f" />
 
 
 ---
